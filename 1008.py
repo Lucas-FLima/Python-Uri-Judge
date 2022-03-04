@@ -1,0 +1,6 @@
+n = int(input())
+h = int(input())
+vh = float(input())
+sala = (h * vh)
+print(f'NUMBER = {n}')
+print(f'SALARY = U$ {sala:.2f}')

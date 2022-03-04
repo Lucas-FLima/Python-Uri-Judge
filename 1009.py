@@ -1,0 +1,5 @@
+name = input()
+fixsal = float(input())
+tven = float(input())
+tmen = (fixsal + (tven * 0.15))
+print(f'TOTAL = R$ {tmen:.2f}')
